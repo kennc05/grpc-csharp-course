@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "SK/KnQe+twMdhiNZ1HB1vTiR1rU5DNq6rSGfOX3S1Hxt1S4P2TnKAH/rcQXzWPt5qp2+g0MEZnybHbBiQgwrPQ==",
+  "dgSpecHash": "bayvyTvGGNyATpCEOlSaP7GiIugrlLDRmRtEErjP4ExW5RA4FfN6kUskAWJjJ1IGIvcuXrwTIjesQWua/Sv0gQ==",
   "success": true,
   "projectFilePath": "G:\\My Drive\\Personal development\\Coding\\grpc-csharp-course\\grpc-csharp-class\\client\\client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kenneth.cajigas\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",
     "C:\\Users\\kenneth.cajigas\\.nuget\\packages\\grpc\\2.46.6\\grpc.2.46.6.nupkg.sha512",
     "C:\\Users\\kenneth.cajigas\\.nuget\\packages\\grpc.core\\2.46.6\\grpc.core.2.46.6.nupkg.sha512",
     "C:\\Users\\kenneth.cajigas\\.nuget\\packages\\grpc.core.api\\2.46.6\\grpc.core.api.2.46.6.nupkg.sha512",
+    "C:\\Users\\kenneth.cajigas\\.nuget\\packages\\grpc.tools\\2.59.0\\grpc.tools.2.59.0.nupkg.sha512",
     "C:\\Users\\kenneth.cajigas\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
     "C:\\Users\\kenneth.cajigas\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\kenneth.cajigas\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",

@@ -61,8 +61,16 @@
     <Folder Include="models\" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="Google.Protobuf">
+      <Version>3.25.1</Version>
+    </PackageReference>
     <PackageReference Include="Grpc">
       <Version>2.46.6</Version>
+    </PackageReference>
+    <PackageReference Include="Grpc.Tools">
+      <Version>2.59.0</Version>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
