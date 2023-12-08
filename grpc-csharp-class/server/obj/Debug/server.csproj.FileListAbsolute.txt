@@ -18,3 +18,5 @@ G:\My Drive\Personal development\Coding\grpc-csharp-course\grpc-csharp-class\ser
 G:\My Drive\Personal development\Coding\grpc-csharp-course\grpc-csharp-class\server\obj\Debug\server.csproj.CopyComplete
 G:\My Drive\Personal development\Coding\grpc-csharp-course\grpc-csharp-class\server\obj\Debug\server.exe
 G:\My Drive\Personal development\Coding\grpc-csharp-course\grpc-csharp-class\server\obj\Debug\server.pdb
+G:\My Drive\Personal development\Coding\grpc-csharp-course\grpc-csharp-class\server\bin\Debug\Google.Protobuf.dll
+G:\My Drive\Personal development\Coding\grpc-csharp-course\grpc-csharp-class\server\bin\Debug\Google.Protobuf.pdb
